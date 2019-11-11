@@ -1,5 +1,5 @@
-/** Hari G Kuduva, Aayush Shah, Andrew Joshua Loria
- *  Pacman AI algorithm using BFS
+/** Andrew Joshua Loria
+ *  Pacman AI algorithm using breadth-first search
  */
 var GAMEBOARD = [];
 
